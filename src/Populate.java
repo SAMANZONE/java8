@@ -1,15 +1,16 @@
-package src;
+import java.util.List;
 
 /**
  * Copyright (c) 2005-2011, ShipXpress Inc. (http://shipxpress.com) All Rights Reserved.
  *
  * @author :  saman
  * @Date :  6/17/16
- * @Time :  1:25 PM
+ * @Time :  1:36 PM
  */
-@FunctionalInterface
- public interface PopulateInterface {
+public class Populate  {
 
-	public void doPopulate();
+	public void doPopulate(List l){
+
+	}
 
 }

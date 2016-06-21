@@ -1,5 +1,3 @@
-package src;
-
 /**
  * Copyright (c) 2005-2011, ShipXpress Inc. (http://shipxpress.com) All Rights Reserved.
  *
